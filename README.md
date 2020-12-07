@@ -1,2 +1,2 @@
-# ph388
-computational physics/algorithms class
+# PH388 - computational physics/algorithms class
+
