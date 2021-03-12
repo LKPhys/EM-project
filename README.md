@@ -1,4 +1,4 @@
-# PH388 - computational physics/algorithms class
+# EM Project- computational physics/algorithms class
 
 Project 1 as part of the PH388 comp phys course contains the algorithms:
 - Gaussian Elimination
